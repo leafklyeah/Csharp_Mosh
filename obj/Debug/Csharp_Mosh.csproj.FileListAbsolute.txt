@@ -1,0 +1,7 @@
+C:\Users\KarenZhang\source\repos\Csharp_Mosh\Csharp_Mosh\bin\Debug\Csharp_Mosh.exe.config
+C:\Users\KarenZhang\source\repos\Csharp_Mosh\Csharp_Mosh\bin\Debug\Csharp_Mosh.exe
+C:\Users\KarenZhang\source\repos\Csharp_Mosh\Csharp_Mosh\bin\Debug\Csharp_Mosh.pdb
+C:\Users\KarenZhang\source\repos\Csharp_Mosh\Csharp_Mosh\obj\Debug\Csharp_Mosh.csproj.CoreCompileInputs.cache
+C:\Users\KarenZhang\source\repos\Csharp_Mosh\Csharp_Mosh\obj\Debug\Csharp_Mosh.exe
+C:\Users\KarenZhang\source\repos\Csharp_Mosh\Csharp_Mosh\obj\Debug\Csharp_Mosh.pdb
+C:\Users\KarenZhang\source\repos\Csharp_Mosh\Csharp_Mosh\obj\Debug\Csharp_Mosh.csprojResolveAssemblyReference.cache
