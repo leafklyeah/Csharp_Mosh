@@ -9,7 +9,7 @@ namespace Csharp_Mosh.ExerciseS9L75
 {
     class LongestWord
     {
-        static void Main()
+        static void MainLongestWord()
         {
             var files=File.ReadAllText(@"C:\Users\KarenZhang\Downloads\test.txt");
             var words = files.Split(' ');
